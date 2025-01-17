@@ -1,7 +1,7 @@
 # ME 371 - Mechanical Design II at ZJUI (Fall 2024)
 
 ## Introduction
-This repository contains the CAD and analysis files for the **Drill-Powered Cart** project completed during the ME 371 course at the Zhejiang University-University of Illinois Institute (ZJU-UIUC).
+This repository contains the CAD and analysis files for the **Drill-Powered Cart** project completed during the ME 371 course at the Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJU-UIUC).
 
 ![Cart](./Cart.png)
 
