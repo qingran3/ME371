@@ -15,6 +15,6 @@ This repository contains the CAD and analysis files for the **Drill-Powered Cart
 ## Authors
 This project was designed and developed by:
 - **Qingran WU**
+- **Zhiliang HE**
 - **Xuanyi JIN**
 - **Sicheng LU**
-- **Zhiliang HE**
